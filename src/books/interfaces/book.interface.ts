@@ -1,3 +1,3 @@
 export interface Book {
-    name: string;
+    title: string;
 }
